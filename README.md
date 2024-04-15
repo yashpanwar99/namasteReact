@@ -1,0 +1,1 @@
+Hi, This repository is about the Namaste React course by Akshay Saini.
